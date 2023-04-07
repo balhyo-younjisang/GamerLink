@@ -5,7 +5,7 @@ GamerLink is community website for gamer easily find the game party member
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GamerLink&fontSize=90" />
   
-  WELCOME!
+  ### WELCOME!
 
   This Website is for gamer like you.
 </div>
