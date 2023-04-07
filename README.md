@@ -7,5 +7,5 @@ GamerLink is community website for gamer easily find the game party member
   
   ### WELCOME!
 
-  This Website is for gamer like you.
+  ### This Website is for gamer like you.
 </div>
