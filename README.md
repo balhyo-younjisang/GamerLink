@@ -7,5 +7,3 @@ WELCOME!
 
 This Website is for gamer like you.
 
-This space is community.
-
